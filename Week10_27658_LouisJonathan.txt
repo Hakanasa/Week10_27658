@@ -1,0 +1,5 @@
+1. Berdasarkan percobaan yang telah dilakukan, maka dapat disimpulkan bahwa program telah berjalan dengan bai, tetapi saat progress berjalan, dapat membuat kita menekan tombol button mulai task. Hal ini membuat progress bar akan menghilang ketika menjalankan task berikutnya.
+
+2. Berdasarkan percobaan yang telah dilakukan, maka dapat disimpulkan bahwa program telah berjalan dengan baik dan menyelesaikan permasalahan yang diatas.
+
+3. Berdasarkan percobaan yang telah dilakukan, ketika tombol menampilkan waktu ditekan, maka menunjukkan waktu sekarang, namun terdapat masalah pada layout karena berada di pojok kiri namun dapat diatasi dengan sedikit modifikasi. Ketika button diklik, maka akan menampilkan TOAST, namun jika menekan secara berulang kali tanpa jeda maka, akan memunculkan masalah waktu yang tidak berubah dan berulang kali menunjukkan waktu yang sama sehingga perlu ada jeda dalam menekan tombol buttonnya.
